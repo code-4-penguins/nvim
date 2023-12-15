@@ -2,8 +2,6 @@ return {
   -- { "shaunsingh/nord.nvim" },
   -- { "bluz71/vim-moonfly-colors" },
   -- { "helbing/aura.nvim" },
-  { "catppuccin/nvim" },
-
   {
     "LazyVim/LazyVim",
     opts = {
